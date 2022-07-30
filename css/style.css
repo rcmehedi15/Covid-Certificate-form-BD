@@ -1,0 +1,105 @@
+
+.border-dot {
+  border: 1px dashed #dee2e6;
+}
+
+.logo-img img {
+  width: 70px;
+}
+
+.header-right-logo img {
+  width: 100px;
+}
+
+.header-text {
+  font-size: 16px;
+  line-height: 70px;
+}
+.header-text p:first-child {
+  font-weight: 500;
+  line-height: 18px;
+  margin-bottom: 0px;
+  margin-top: 18px;
+}
+.header-text p:last-child {
+  line-height: 18px;
+}
+
+.verification-section h2:first-child {
+  font-size: 30px;
+  color: green;
+  font-weight: bold;
+}
+.verification-section h2:last-child {
+  font-size: 22px;
+  color: green;
+  font-weight: 350;
+}
+
+.Ben-Vec-D {
+  background-color: #eeeeee;
+  border: 1px solid #dee2e6;
+}
+
+.Ben-Vec-D h3 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.Ben-Vec-D-R {
+  font-size: 13px;
+  text-align: right;
+  padding: 5px;
+  overflow-wrap: break-word;
+}
+
+.beneficiary-details-left {
+  font-size: 13px;
+  text-align: left;
+  padding: 5px;
+  overflow-wrap: break-word;
+}
+
+.short-dose-1 h3 {
+  font-size: 13px;
+  text-align: right;
+  padding: 5px;
+  font-weight: bold;
+}
+.short-dose-2 h3 {
+  font-size: 13px;
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+}
+.short-dose-3 h3 {
+  font-size: 13px;
+  text-align: left;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.short-does-part-1 h3 {
+  font-size: 13px;
+  text-align: right;
+  padding: 5px;
+  overflow-wrap: break-word;
+  text-transform: capitalize;
+}
+.short-does-part-2 h3 {
+  font-size: 13px;
+  text-align: center;
+  padding: 5px;
+  overflow-wrap: break-word;
+}
+.short-does-part-3 h3 {
+  font-size: 13px;
+  text-align: left;
+  padding: 5px;
+  overflow-wrap: break-word;
+}
+
+.footer-sec img {
+  max-width: 70%;
+}
